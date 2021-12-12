@@ -1,0 +1,3 @@
+22 petit_dejeuner Pizza 10.00 1 12 2021
+10 petit_dejeuner Spaghetti 12.00 2 12 2021
+13 petit_dejeuner crepe 9.00 3 12 2021
